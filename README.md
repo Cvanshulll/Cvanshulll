@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanshul</h1>
 <h3 align="center">A passionate student, always eager to learn new things.</h3>
 
-- 🌱 I’m currently learning **Matlab, ML**
+- 🌱 I’m currently learning **Matlab, Django**
 
 - 📫 How to reach me **cvanshul09@gmail.com**
 
