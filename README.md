@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **cvanshul09@gmail.com**
 
-- ⚡ Fun fact **I think I get confused while talking :) XD**
+- ⚡ Fun fact **I think I get confused while talking :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
