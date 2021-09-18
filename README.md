@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vanshul</h1>
 <h3 align="center">A student, always eager to learn new things.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cvanshulll&label=Profile%20views&color=0e75b6&style=flat" alt="cvanshulll" /> </p>
+
 - 🌱 I’m currently learning **Matlab, Django**
 
 - 📫 How to reach me **cvanshul09@gmail.com**
 
-- ⚡ Fun fact **I think I get confused while talking :)**
+- ⚡ Fun fact **I think I get confused while talking :) XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvanshulll&show_icons=true&locale=en&layout=compact" alt="cvanshulll" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvanshulll&show_icons=true&locale=en" alt="cvanshulll" /></p>
-
