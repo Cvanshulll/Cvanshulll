@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvanshulll&label=Profile%20views&color=0e75b6&style=flat" alt="cvanshulll" /> </p>
 
 # About Me:
-"Passionate coder, creating digital magic. Exploring endless possibilities with lines of code. <br>🌱 I’m currently learning React<br>🤝 I’m looking for help with React
+"Passionate coder, creating digital magic. Exploring endless possibilities with lines of code. 
 
 
 📫 How to reach me **cvanshul09@gmail.com**
